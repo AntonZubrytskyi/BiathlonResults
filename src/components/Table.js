@@ -25,6 +25,7 @@ function BasicTable() {
     return(
         <>
             <Filter filter={globalFilter} setFilter={setGlobalFilter}/>
+            <hr/>
         <table {...getTableProps()}>
             <thead>
             {headerGroups.map((headerGroup)=>(
