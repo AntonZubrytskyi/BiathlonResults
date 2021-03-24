@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "name": "EDER Simon",
+    "seconds": 20.3,
+    "hits":22
+  },
+  {
+    "place": 2,
+    "name": "TISHCHENKO Artem",
+    "seconds": 16.4,
+    "hits":24
+  },
+  {
+    "place":3 ,
+    "name": "LAEGREID Sturla Holm",
+    "seconds": 22.3,
+    "hits":19
+  },
+  {
+    "place":4 ,
+    "name": "LABASTAU Mikita",
+    "seconds": 23.4 ,
+    "hits":22
+  },
+  {
+    "place":5 ,
+    "name": "FAK Jakov",
+    "seconds": 15.7,
+    "hits":25
+  },
+  {
+    "place":6 ,
+    "name": "KOMATZ David",
+    "seconds": 24,
+    "hits":16
+  },
+  {
+    "place":7 ,
+    "name": "ELISEEV Matvey",
+    "seconds": 18.5 ,
+    "hits":17
+  },
+  {
+    "place":8 ,
+    "name": "BJOENTEGAARD Erlend",
+    "seconds": 29.3 ,
+    "hits":15
+  },
+  {
+    "place":9 ,
+    "name": "PEIFFER Arnd",
+    "seconds": 16.4,
+    "hits":22
+  },
+  {
+    "place": 10,
+    "name": "SAMUELSSON Sebastian",
+    "seconds": 27 ,
+    "hits":11
+  },
+  {
+    "place":11 ,
+    "name": "DOVZAN Miha",
+    "seconds": 17.5,
+    "hits":25
+  },
+  {
+    "place":12 ,
+    "name": "CISAR Alex",
+    "seconds": 18.1,
+    "hits":13
+  },
+  {
+    "place":13 ,
+    "name": "KRCMAR Michal",
+    "seconds": 28.5 ,
+    "hits":18
+  },
+  {
+    "place":14 ,
+    "name": "GARANICHEV Evgeniy",
+    "seconds": 29.4,
+    "hits":22
+  },
+  {
+    "place":15 ,
+    "name": "WEGER Benjamin",
+    "seconds": 19,
+    "hits":19
+  }
+]
